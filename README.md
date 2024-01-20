@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/project_status-unmaintained-blue)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/n0xy1/suricata_es_shipper/main) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/n0xy1/suricata_es_shipper)
 
-Ships suricata eve.json logs directly into elasticsearch.
+Ships suricata eve.json logs directly into elasticsearch...
 
 ## Config
 
